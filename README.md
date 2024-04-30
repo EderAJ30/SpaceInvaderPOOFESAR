@@ -31,7 +31,7 @@ El proyecto consiste en una aplicación de escritorio desarrollada en JavaFX que
 3. Explora el código fuente para comprender la implementación del juego y la estructura orientada a objetos utilizada.
 4. Ejecuta la aplicación y disfruta jugando a Space Invaders.
 
-   ¡Espero que te diviertas explorando y aprendiendo con este proyecto!
+   ¡Espero que te diviertas explorando y aprendiendo con este proyecto!🐐💽
 
    :)
 
